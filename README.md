@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Setup
 
 ## 1. Clone the Repository
