@@ -69,17 +69,4 @@ The SQLite database is created automatically when running the checkpointing exam
 chatbot.db
 ```
 
-Do **not** commit `.env` or `*.db` files to GitHub.
 
-Recommended `.gitignore`:
-
-```gitignore
-.env
-.venv/
-__pycache__/
-*.db
-.ipynb_checkpoints/
-```
-=======
-# handson_langraph
->>>>>>> 473774b7318a2af0c1aa05b9067264418dc90ecb
